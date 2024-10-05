@@ -24,10 +24,13 @@ Data-driven professional with 4 years of experience in Supply Chain Management a
 ### Predictive Analytics – Conagra Hackathon 
 [Publication]()
 
-![Conagara](/assets/Predic.png)
+![Conagara](/assests/Predic.png)
 
 
 ### Big Data – Maximizing Airline Profitability 
 [Publication]()
+
+![Big Data](/assests/Big_Data.png)
+
 
 ### Robotic Process Automation – KMPG Hackathon 
