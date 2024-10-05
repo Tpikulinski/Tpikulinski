@@ -30,7 +30,7 @@ Data-driven professional with 4 years of experience in Supply Chain Management a
 ### Big Data – Maximizing Airline Profitability 
 [Publication]()
 
-![Big Data](/assests/Big_Data.png)
+![Big Data](/assests/'Big_Data'.png)
 
 
 ### Robotic Process Automation – KMPG Hackathon 
