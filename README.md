@@ -32,7 +32,7 @@ Data-driven professional with 4 years of experience in Supply Chain Management a
 ## Projects
 ### Predictive Analytics – Conagra Hackathon 
 
-[Project Link](Projects/BUAN6337_Group35_Project_Report_FinalReport2.docx)
+[Project Link](Projects/BUAN6337_FinalReport2.docx)
 
 -	Tasked with identifying new table spread product offerings to bring to market with Multinomial logistic regression using the entire markets’ 2018-2022 sales data, cleaned and analyzed in Jupyter Notebook
 -	Regression outputs identified opportunities for Conagra to create new form offerings based predominantly on geography and tier value.
