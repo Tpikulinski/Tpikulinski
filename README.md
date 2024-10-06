@@ -20,8 +20,17 @@ Data-driven professional with 4 years of experience in Supply Chain Management a
 -	Performed cleaning and analysis in Jupyter Notebook and visualized results in Power BI, achieving an estimated 75% reduction in POs reconciled by buyers after implementation, saving a forecasted 10,000+ hours annually.
 -	Supported Data Analytics Team in Ad Hoc Data requests from Global Supply Chain team
 
+**Associate Global Procurement Analyst @ Northrop Grumman (_January 2021 – Present_)**			 
+-	Lead Procurement Specialist for Mission Systems Calibration Department overseeing training of 3 employees
+-	Designed and implemented over 15 automated processes using Python scripting, SQL queries, and VBA macros for more efficient reporting in Tableau and Power BI
+-	4x Bravo Recognition Award winner, assisting in clearing invoice backlog and increasing PO operational efficiency 
+-	Issued purchase orders exceeding $2 Million in annual spend across 100 plus suppliers
+
+
 ## Projects
 ### Predictive Analytics – Conagra Hackathon 
+
+[Project Link](Projects/BUAN6337_Group35_Project_Report_FinalReport2.docx)
 
 -	Tasked with identifying new table spread product offerings to bring to market with Multinomial logistic regression using the entire markets’ 2018-2022 sales data, cleaned and analyzed in Jupyter Notebook
 -	Regression outputs identified opportunities for Conagra to create new form offerings based predominantly on geography and tier value.
@@ -32,6 +41,8 @@ Data-driven professional with 4 years of experience in Supply Chain Management a
 
 ### Big Data – Maximizing Airline Profitability 
 
+[Project Link](Projects/Big_Data_Final_Project.pptx)
+
 -	Analyzed Airline flight log data for all domestic flights between 2017-2018 using Hadoop and Pyspark. Displayed data using advanced SQL querying.
 -	Identified JetBlue as having the most Flight Ops delays with over 600,000 or 25% of all flights delayed greater than 15 minutes, costing the company on average $440M annually in operations costs. Approximately $63 per minute.
 -	Recommended JetBlue to invest in streamlining flight arrival and departure schedules, plane maintenance procedures, and seek airline partnership alliances to share plane and crew resources.
@@ -40,3 +51,9 @@ Data-driven professional with 4 years of experience in Supply Chain Management a
 
 
 ### Robotic Process Automation – KMPG Hackathon 
+
+-	Challenged with creating a low-code CRM to onboard company new-hires, providing document approval process flows, training material, and a manager-employee hierarchical structure. SQL Database was hosted on AWS 
+-	Team was awarded 2nd overall after presenting functional proof-of-concept to KPMG team
+
+![RPA](/assests/Big_Data.png)
+
