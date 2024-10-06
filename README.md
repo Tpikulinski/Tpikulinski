@@ -55,5 +55,5 @@ Data-driven professional with 4 years of experience in Supply Chain Management a
 -	Challenged with creating a low-code CRM to onboard company new-hires, providing document approval process flows, training material, and a manager-employee hierarchical structure. SQL Database was hosted on AWS 
 -	Team was awarded 2nd overall after presenting functional proof-of-concept to KPMG team
 
-![RPA](/assests/Big_Data.png)
+![RPA](Projects/RPA.png)
 
