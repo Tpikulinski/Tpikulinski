@@ -30,17 +30,6 @@ Data-driven professional with 4 years of experience in Supply Chain Management a
 
 
 ## Projects
-### Predictive Analytics – Conagra Hackathon 
-
-[Project Link](Projects/BUAN6337_FinalReport2.docx)
-
--	Tasked with identifying new table spread product offerings to bring to market with Multinomial logistic regression using the entire markets’ 2018-2022 sales data, cleaned and analyzed in Jupyter Notebook
--	Regression outputs identified opportunities for Conagra to create new form offerings based predominantly on geography and tier value.
-
-
-![Conagara](/assests/Predic.png)
-
-
 ### Big Data – Maximizing Airline Profitability 
 
 [Project Link](Projects/Big_Data_Final_Project.pptx)
@@ -50,6 +39,15 @@ Data-driven professional with 4 years of experience in Supply Chain Management a
 -	Recommended JetBlue to invest in streamlining flight arrival and departure schedules, plane maintenance procedures, and seek airline partnership alliances to share plane and crew resources.
 
 ![Big Data](/assests/Big_Data.png)
+### Predictive Analytics – Conagra Hackathon 
+
+[Project Link](Projects/BUAN6337_FinalReport2.docx)
+
+-	Tasked with identifying new table spread product offerings to bring to market with Multinomial logistic regression using the entire markets’ 2018-2022 sales data, cleaned and analyzed in Jupyter Notebook
+-	Regression outputs identified opportunities for Conagra to create new form offerings based predominantly on geography and tier value.
+
+
+![Conagara](/assests/Predic.png)
 
 
 ### Robotic Process Automation – KMPG Hackathon 
