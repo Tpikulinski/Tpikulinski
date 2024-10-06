@@ -22,15 +22,21 @@ Data-driven professional with 4 years of experience in Supply Chain Management a
 
 ## Projects
 ### Predictive Analytics – Conagra Hackathon 
-[Publication]()
+
+-	Tasked with identifying new table spread product offerings to bring to market with Multinomial logistic regression using the entire markets’ 2018-2022 sales data, cleaned and analyzed in Jupyter Notebook
+-	Regression outputs identified opportunities for Conagra to create new form offerings based predominantly on geography and tier value.
+
 
 ![Conagara](/assests/Predic.png)
 
 
 ### Big Data – Maximizing Airline Profitability 
-[Publication]()
 
-![Big Data](/assests/'Big_Data'.png)
+-	Analyzed Airline flight log data for all domestic flights between 2017-2018 using Hadoop and Pyspark. Displayed data using advanced SQL querying.
+-	Identified JetBlue as having the most Flight Ops delays with over 600,000 or 25% of all flights delayed greater than 15 minutes, costing the company on average $440M annually in operations costs. Approximately $63 per minute.
+-	Recommended JetBlue to invest in streamlining flight arrival and departure schedules, plane maintenance procedures, and seek airline partnership alliances to share plane and crew resources.
+
+![Big Data](/assests/Big_Data.png)
 
 
 ### Robotic Process Automation – KMPG Hackathon 
