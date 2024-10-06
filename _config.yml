@@ -1,5 +1,5 @@
 title: Turner Pikulinski
-logo: <img src="/assests/Headshot1.png" width="200" style="border-radius: 50%;">
+#logo: <img src="/assests/Headshot1.png" width="200" style="border-radius: 50%;">
 #description:
 #show_downloads: false
 theme: jekyll-theme-minimal
