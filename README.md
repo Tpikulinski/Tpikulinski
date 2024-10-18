@@ -4,7 +4,7 @@
 
 <img src="/assests/Headshot1.png" width="200">
 
-Data-driven professional with 4 years of experience in Supply Chain Management and Data Analytics, specializing in utilizing Python, SQL Queries, and VBA macros to automate processes and achieve significant reductions in labor hours. Proven ability to translate complex data into actionable insights that resolve critical pain points and drive operational efficiency through strong written and oral communication skills. 
+Data-driven professional with 4 years of experience in Supply Chain Management and Data Analytics, specializing in utilizing Python, SQL Queries, and VBA macros to manipulate, analyze, and visualize data, uncovering meaningful patterns for informed decision-making. Passionate about the intersection of business and technology, and dedicated to delivering tangible value through innovative and data-driven solutions that drive business growth and operational efficiency.
 
 #### Technical Skills:
  - Data Analysis: SQL, Python, R Studio, VBA, Hadoop, Spark, PyTorch, Power Query, Kusto
